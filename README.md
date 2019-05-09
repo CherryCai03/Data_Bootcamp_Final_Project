@@ -1,6 +1,6 @@
 # data_bootcamp_final_project
 
-This project was completed by Ruijie (Cherry) Cai (ruijiu.cai@stern.nyu.edu),and Wei Wang (wei.wang@stern.nyu.edu) in partial fulfillment of ECON-UB.0232, Data Bootcamp, Spring 2019. I certify that the NYU Stern Honor Code applies to this project. In particular, I have: 
+This project was completed by Ruijie (Cherry) Cai (ruijiu.cai@stern.nyu.edu),and Wei Wang (wei.wang@stern.nyu.edu) in partial fulfillment of ECON-UB.0232 Data Bootcamp, Spring 2019. I certify that the NYU Stern Honor Code applies to this project. In particular, I have: 
 
 Clearly acknowledged the work and efforts of others when submitting written work as our own. The incorporation of the work of others-including but not limited to their ideas, data, creative expression, and direct quotations (which should be designed with quotation marks), or parephrasing thereof - has been fully and appropriately referenced using notations both in the text and the bibliography.
 
