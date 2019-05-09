@@ -9,7 +9,7 @@ Submitting the same substaintially similar work in multiple courses, either in t
  
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course.
  
-# Project Abstract
+# Abstract
 We are exploying in: How have the Real Estate Investment Structure Changed in China over the Last 15 Years?
 
 This project studys how the investment in real estate evolve over time at a narrow geographic level within China. Since the 21st century, China had developed in jet speed. Regardless of the house pricing in the original first-tier cities, e.g. Beijing, Shanghai, Guangzhou, Shenzhen, less-developed cities like Chengdu, Hangzhou, Wuhan, Xi’an actually had the biggest price gain in the House price in recent years. Real estate investment had been pushed to the spotlight, and purchasing house property has been regarded as one of the biggest challenging problems for the younger generations. Our had investigate into the change in the real estate industry starting from a nationwide plot, then continued with the analysis across provinces and eventually narrow it down to the city level. With this in-depth examination into the real estate industry in China, we hope to see the renovation of investment structure and the direction of the current flow of the habit in investing real estate properties.
